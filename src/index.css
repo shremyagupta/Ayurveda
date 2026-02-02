@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #2C5F2D; /* Deep forest green */
+  --color-secondary: #97BC62; /* Fresh green */
+  --color-accent: #D4A373; /* Earthy sandalwood */
+  --font-display: "Merriweather", serif;
+  --font-body: "Inter", sans-serif;
+}
